@@ -1,0 +1,185 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: auto;
+}
+
+.emoticon{
+    position: absolute;
+    left: 130px;
+    top: 25px;
+    width: 35px;
+}
+.menu{
+    background-color: black;
+    color: white;
+    width: 100%;
+    list-style: none;
+    position: absolute;
+    list-style: none;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 15px;
+}
+
+.menu li a:hover{
+    background-color: white;
+    color: black;
+}
+.menu ul{
+    display:block;
+    padding-left: 180px;
+}
+
+.menu ul li{
+    display: inline-block;
+    text-align: center;
+    
+}
+
+
+
+.laptop1{
+    width: 100%;
+}
+
+.letrasflotantes{
+    position: absolute;
+    color: white;
+    right: 200px;
+    top: 100px;
+}
+
+.letrasflotantes h1{
+    font-size: 60px;
+    width: 900px;
+    text-align: right;
+}
+
+.letrasflotantes p{
+    text-align: right;
+    font-size: 30px;
+}
+
+
+.container1{
+    justify-content: center;
+    padding-left: 30px;
+    padding-top: 90px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.container1 p{
+   line-height: 0%;
+}
+
+.edificio{
+    width: 400px;
+}
+
+.container2{
+    background-color:#a4452c;
+    align-items: center;
+    text-align: left;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    line-height: 10px;
+}
+
+.container2 div{
+    display: inline-block;
+    padding-left: 32%;
+}
+
+.container2 h2{
+    width: 500px;
+}
+
+.container2 p{
+    width: 600px;
+    line-height: 15px;
+}
+.rafaela{
+    width: 200px;
+    float: left;
+    padding-right: 30px;
+}
+
+.container3{
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    padding-left: 2.5%;
+    padding-top: 50px;
+}
+
+.container3 h1{
+    text-align: center;
+    padding-right: 3%;
+    padding-bottom: 20px;
+}
+
+.eventos{
+    padding-left: 2%;
+}
+
+.container3 img{
+    width: 250px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.container3 ul{
+    text-decoration: none;
+    padding-right: 40px;
+}
+.container3 ul li{
+    display: inline-block;
+    padding-left: 50px;
+    padding-right: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, black;
+    text-align: center;
+}
+
+.container3 li a{
+    text-decoration: none;
+    color: black;
+}
+
+.container4{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.container4 p{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.container4 img{
+    width: 50px;
+    padding-top: 50px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.samsa{
+    padding-top: 110px;
+    padding-left: 500px;
+    padding-bottom: 70px;
+}
+
+.samsa img{
+    width: 600px;
+    padding-top: 10px;
+}
+
+.samsa p{
+    width: 600px;
+}
